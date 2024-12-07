@@ -1,6 +1,5 @@
 # Overview
 
-Overview
 This repository accompanies the article titled "Machine-learned flow estimation with sparse data --- exemplified for the rooftop of an unmanned aerial vehicle vertiport" by Chang Hou, Luigi Marra, Guy Y. Cornejo Maceda, Peng Jiang, Jingguo Chen, Yutong Liu, Gang Hu, Jialong Chen, Andrea Ianiro, Stefano Discetti, Andrea Meilán-Vila and Bernd R. Noack.
 
 This paper enables extrapolation of wind conditions far beyond the training data, and is exemplified for the flow above an Unmanned Aerial Vehicle (UAV) vertiport.
