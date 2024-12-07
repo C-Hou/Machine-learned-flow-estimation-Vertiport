@@ -16,18 +16,22 @@ DOI: https://doi.org/...
 mainVertiportFowEstimation.m
 
 Main body of the frame work, examplified by the leading POD modes of the vertiport flow data.
-IsoMap.m
 
-Applies ISOMAP for manifold learning.
-isomap_decoder.m
+1.IsoMap.m
 
-Performs a Knn interpolation to transition from manifold coordinates to snapshots as proposed by Farzamnik E, Ianiro A, Discetti S, et al. in "From snapshots to manifolds – a tale of shear flows."
-KNN_projection.m
+  Applies ISOMAP for manifold learning.
 
-Performs a Knn process
+2.isomap_decoder.m
 
-WindConditionEstimator.m
-Perform the wind speed estimation based on sensor signal
+  Performs a Knn interpolation to transition from manifold coordinates to snapshots as proposed by Farzamnik E, Ianiro A, Discetti S, et al. in "From snapshots to manifolds – a tale of shear flows."
+
+3.KNN_projection.m
+
+  Performs a Knn process
+
+4.WindConditionEstimator.m
+
+  Perform the wind speed estimation based on sensor signal
 
 
 
